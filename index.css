@@ -1,0 +1,31 @@
+*{
+    background-color: rgb(255, 255, 255); 
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(116, 116, 248);
+    font-weight: bold;
+
+}
+
+p,div{
+    border:1px;
+}
+
+#sub{
+    border: 2px solid black;
+    background-color: rgb(134, 221, 145);
+}
+
+#res{
+    border: 2px solid black;
+    background-color: rgb(235, 121, 121);
+ }
+
+.lp{
+    background-color: rgb(200, 200, 245);
+}
+
+#sub:hover{background-color:green;}
+#res:hover{background-color: red;}
